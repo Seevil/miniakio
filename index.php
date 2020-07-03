@@ -24,7 +24,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
         <ul>
           <?php while($this->next()): ?>
           <li>
-            <span><?php $this->date("m-d"); ?></span> &raquo; <a href="<?php $this->permalink() ?>"><?php $this->title(19,'...') ?></a>
+            <span><?php $this->date("m-d"); ?></span> &raquo; <a href="<?php $this->permalink() ?>" title="<?php $this->title() ?>"><?php $this->title(19,'...') ?></a>
           </li>
           <?php endwhile; ?>
         </ul>
