@@ -3,7 +3,7 @@
 
 [原主题][1] 有5、6年了吧，之前就想移植过来的一直没动，原作者都已经不用这个主题了。之前无事打开书签点开里面收藏的网站发现半数已经不存在了这个主题就当是一场怀旧吧
 
-发布地址：https://www.xde.io/typecho/miniakio.html
+发布地址：https://www.krsay.com/typecho/miniakio.html
 
 预览：
 ![screenshot](https://user-images.githubusercontent.com/7334510/86447038-53887180-bd47-11ea-9ac9-3f990ac94246.png)
